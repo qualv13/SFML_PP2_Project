@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\jakub\CLionProjects\PP2\GUI_PPG2Lab12 Select CMakeLists.txt
